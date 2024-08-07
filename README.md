@@ -1,18 +1,18 @@
 # Desafio Mini Wiki
 Bem-vindo ao nosso segundo desafio! 💻 No desafio de hoje, vamos colocar a mão na massa e criar uma mini wiki sobre você. Vamos utilizar HTML para construir a estrutura da página e SASS para dar aquele toque especial na estilização. 🎨
 
-Instruções
+# Instruções
 1. Escolha um Modelo do Figma! 🌟
 Antes de começar a codificar, escolha um modelo de design do Figma para sua mini wiki. Isso ajudará a orientar a construção e a estilização da sua página.
 
-Modelos no Figma (substitua pelo link real)
+
 2. Construa a Estrutura com HTML
 Utilize HTML para construir a estrutura básica da sua mini wiki. Garanta que a estrutura seja clara e que contenha as seções principais, como uma breve biografia, hobbies, e qualquer outra informação relevante.
 
 3. Estilize com SASS 🖌️
 Depois de criar a estrutura HTML, use SASS para estilizar sua página. Aplique cores, fontes e layout que combinem com o modelo escolhido no Figma e que realcem a estética da sua mini wiki.
 
-4. Entrega
+# 4. Entrega
 Para entregar seu projeto, siga estes passos:
 
 Crie um repositório no GitHub.
