@@ -12,7 +12,7 @@ Utilize HTML para construir a estrutura básica da sua mini wiki. Garanta que a 
 3. Estilize com SASS 🖌️
 Depois de criar a estrutura HTML, use SASS para estilizar sua página. Aplique cores, fontes e layout que combinem com o modelo escolhido no Figma e que realcem a estética da sua mini wiki.
 
-# 4. Entrega
+# Entrega
 Para entregar seu projeto, siga estes passos:
 
 Crie um repositório no GitHub.
