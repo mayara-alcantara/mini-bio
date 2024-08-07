@@ -1,0 +1,21 @@
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+body {
+  background-color: #BAF3F6;
+  font-size: 17px;
+}
+
+h1 {
+  color: #F587DD;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #D9D9D9;
+  border: 1px solid #ddd;
+}/*# sourceMappingURL=style.css.map */
